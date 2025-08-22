@@ -1,2 +1,5 @@
+[build]
+  push = "public"
+
 [functions]
   directory = "netlify/functions/"
